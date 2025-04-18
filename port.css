@@ -49,11 +49,20 @@
     background: #222;
     color: white;
   }
-  .profile-pic {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-bottom: 20px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  }
+ header {
+  background: #222;
+  color: white;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.top-right-image {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid white;
+}
