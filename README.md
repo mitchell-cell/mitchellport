@@ -1,5 +1,5 @@
 # mitchell
-[Uploa<!DOCTYPE html>
+[Upload<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
