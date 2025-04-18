@@ -20,9 +20,9 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <img src="c:\Users\User\Pictures\mitchell.jpg" alt="Mitchell olaide bamidele" />
-    ![image](https://github.com/user-attachments/assets/2583ff70-7466-4646-bc9f-9aff29a97c04)
+    <img src="mitchell.jpg" alt="Mitchell's Photo" class="top-right-image">
 
+   
     <p>Hello! I'm Mitchell bamidele, a passionate developer with experience in front-end and back-end development. I love creating beautiful, responsive websites and applications.</p>
   </section>
 
@@ -49,3 +49,4 @@
   </footer>
 </body>
 </html>
+
