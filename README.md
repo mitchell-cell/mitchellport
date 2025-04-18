@@ -40,8 +40,8 @@
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: youremail@example.com</p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">yourprofile</a></p>
+    <p>Email: mitchellbamidele6@gmail.com</p>
+   
   </section>
 
   <footer>
