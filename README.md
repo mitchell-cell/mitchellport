@@ -4,12 +4,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Your Name - Portfolio</title>
+  <title>Mitchell olaide bamidele - Portfolio</title>
   <link rel="stylesheet" href="port.css" />
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>Mitchell olaide bamidele</h1>
     <p>Web Developer | Designer | Creator</p>
     <nav>
       <a href="#about">About</a>
@@ -20,7 +20,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <img src="c:\Users\User\Pictures\mitchell.jpg" alt="Your Name" />
+    <img src="c:\Users\User\Pictures\mitchell.jpg" alt="Mitchell olaide bamidele" />
     <p>Hello! I'm Mitchell bamidele, a passionate developer with experience in front-end and back-end development. I love creating beautiful, responsive websites and applications.</p>
   </section>
 
