@@ -1,4 +1,4 @@
-# mitchellport
+# mitchell
 [Uploa<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,66 +47,3 @@
   </footer>
 </body>
 </html>
-ding port.html.html…]()
-
-[Up{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  body {
-    font-family: 'Segoe UI', sans-serif;
-    line-height: 1.6;
-    background: #f5f5f5;
-    color: #333;
-  }
-  
-  header {
-    background: #222;
-    color: white;
-    padding: 40px 20px;
-    text-align: center;
-  }
-  
-  nav a {
-    margin: 0 15px;
-    color: #ddd;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  
-  nav a:hover {
-    color: #fff;
-  }
-  
-  section {
-    padding: 40px 20px;
-    max-width: 800px;
-    margin: auto;
-  }
-  
-  .project {
-    background: white;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-left: 5px solid #007BFF;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  }
-  
-  footer {
-    text-align: center;
-    padding: 20px;
-    background: #222;
-    color: white;
-  }
-  .profile-pic {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-bottom: 20px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  }loading port.css.css…]()
-
-
